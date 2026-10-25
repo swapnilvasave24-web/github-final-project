@@ -1,12 +1,3 @@
-Our Pledge
-Our Standards
-Enforcement Responsibilities
-Scope
-Enforcement
-Enforcement Guidelines
-Attribution
-
-
 Contributing Guidelines
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
